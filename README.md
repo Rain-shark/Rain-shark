@@ -29,12 +29,10 @@
 -  目标：用 AI 解读情绪的“潮汐”
 -  日常：Python、深度学习框架
 
----
-
 
 ---
 
-### 💧 我的“潜水装备” / Tech Stack
+###  我的“潜水装备” / Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,7 +44,7 @@
 
 ---
 
-### 🌧️ 今日寄语
+###  今日寄语
 
 <div align="center">
   <i>"The shark does not fear the rain; it fears the calm sea."</i>
