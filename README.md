@@ -46,7 +46,7 @@
 ###  今日寄语
 
 <div align="center">
-  <i>"The shark does not fear the rain; it fears the calm sea."</i>
+  <i>"The shark does not fear the rain, it fears the calm sea."</i>
   <br>
   <b>🦈 鲨鱼不惧暴雨，只恐风平浪静。</b>
 </div>
