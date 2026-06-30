@@ -31,13 +31,6 @@
 
 ---
 
-### 📊 我的代码“海域”统计
-
-<div align="center">
-  <!-- 注意：下面的 username= 后面请保留你的数字 204734278 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=204734278&show_icons=true&theme=radical&bg_color=0a0e17&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=0a0e17&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=204734278&layout=compact&theme=radical&bg_color=0a0e17&title_color=00d4ff&text_color=ffffff&border_color=0a0e17&hide_border=true" width="48%" />
-</div>
 
 ---
 
@@ -45,7 +38,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
